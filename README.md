@@ -8,5 +8,7 @@
 
 ## Synopsis
 
+Terraform to deploy Dockerized Python + postgreSQL + Nginx + gUnicorn to AWS.
+
 * `Docker` 
 
